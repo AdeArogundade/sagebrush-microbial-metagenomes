@@ -1,0 +1,7 @@
+name: "Exploring sagebrush microbial metagenomes from deep, host-derived sequencing"
+output_dir: "."
+navbar:
+  title: "Sagebrush Microbial Metagenomes"
+  left:
+    - text: "Reprodicible Workflow"
+      href: index.html
