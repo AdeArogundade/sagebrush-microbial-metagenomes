@@ -111,7 +111,7 @@ opts_chunk$set(fig.pos = "H")
 
 The purpose of this project is to develop a reproducible workflow that is specific to my research entitled **"Exploring sagebrush microbial metagenomes from deep, host-derived sequencing"**.
 
-The objectives of this study are to profile the microbial taxa associated with big sagebrush leaves, reconstruct MAGs where possible, and explore the potential functions of the resulting MAGs. We ask the following questions: 
+The objectives of this study are to profile the microbial taxa associated with big sagebrush leaves, reconstruct MAGs where possible, and explore the potential functions of the resulting MAGs. We ask the following questions:
 
 1. Which microbial taxa can we profile from deeply sequenced sagebrush shotgun reads?
 
