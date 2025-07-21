@@ -6,7 +6,6 @@ date: "`r Sys.Date()`"    # Instead of writing date, we use an inline code of R 
 output:
   bookdown::html_document2:   #We specified that we want to use the html_document2 function from bookdown to avoid any ambiguity
     toc: TRUE
-    self_contained: true
  # bookdown::pdf_document2:        #### # I added hashtag at the beginning of this code because I dont have latex installed on the computer.
   #  toc: TRUE
     toc_float: yes
