@@ -1,0 +1,4 @@
+Bin_Name,Marker_Lineage,Genomes_Size_(bp),No_of_Markers,No_of_Marker_Sets,Completeness,Contamination
+Bin.001,o__Sphingomonadales,3972965,569,293,98.62,0.9
+Bin.002,c__Alphaproteobacteria,5311195,349,230,100,0.87
+Bin.003,k__Archaea,21065390,149,107,70.02,23.3
