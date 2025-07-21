@@ -1,4 +1,4 @@
-name: "Exploring sagebrush microbial metagenomes from deep, host-derived sequencing"
+name: "Sagebrush Microbial Metagenomes"
 output_dir: "."
 navbar:
   title: "Sagebrush Microbial Metagenomes"
